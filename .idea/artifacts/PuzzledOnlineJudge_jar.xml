@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PuzzledOnlineJudge:jar">
+    <output-path>$USER_HOME$/Desktop/Puzzled/uploads</output-path>
+    <root id="archive" name="PuzzledOnlineJudge.jar">
+      <element id="module-output" name="PuzzledOnlineJudge" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.12.3/mongo-java-driver-2.12.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

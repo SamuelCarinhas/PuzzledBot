@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PuzzledOnlineJudge:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="275ad49d-a060-4ea0-a913-2e4a9dae356c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtZdyZQYFuVMKEUSuy727iV8Ga" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="puzzledonlinejudge" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Puzzled/uploads" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.puzzled.com.Main" />
+      <module name="PuzzledOnlineJudge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.puzzled.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="275ad49d-a060-4ea0-a913-2e4a9dae356c" name="Default Changelist" comment="" />
+      <created>1583763941972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583763941972</updated>
+      <workItem from="1583763944625" duration="1000" />
+      <workItem from="1583958213868" duration="2386000" />
+      <workItem from="1583968587975" duration="5242000" />
+      <workItem from="1584006001439" duration="4875000" />
+      <workItem from="1584014736087" duration="4159000" />
+      <workItem from="1584026259423" duration="2990000" />
+      <workItem from="1584033411249" duration="2131000" />
+      <workItem from="1584045357059" duration="5000" />
+      <workItem from="1584053661358" duration="3000" />
+      <workItem from="1584134925125" duration="283000" />
+      <workItem from="1584178327491" duration="10095000" />
+      <workItem from="1584198409936" duration="1727000" />
+      <workItem from="1584209557516" duration="837000" />
+      <workItem from="1584214798035" duration="603000" />
+      <workItem from="1584268430202" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583968918214">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="836" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1583968918214" />
+    <state x="683" y="232" width="544" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1584180981877">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="683" y="232" width="544" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1004@0.27.1920.1004" timestamp="1584180981877" />
+    <state x="869" y="323" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583968812630">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="869" y="323" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1583968812630" />
+    <state x="716" y="300" width="444" height="513" key="FileChooserDialogImpl" timestamp="1584183690768">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="716" y="300" width="444" height="513" key="FileChooserDialogImpl/0.27.1920.1004@0.27.1920.1004" timestamp="1584183690768" />
+    <state width="1874" height="261" key="GridCell.Tab.0.bottom" timestamp="1584194347686">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="261" key="GridCell.Tab.0.bottom/0.27.1920.1004@0.27.1920.1004" timestamp="1584194347686" />
+    <state width="1874" height="261" key="GridCell.Tab.0.center" timestamp="1584194347686">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="261" key="GridCell.Tab.0.center/0.27.1920.1004@0.27.1920.1004" timestamp="1584194347686" />
+    <state width="1874" height="261" key="GridCell.Tab.0.left" timestamp="1584194347685">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="261" key="GridCell.Tab.0.left/0.27.1920.1004@0.27.1920.1004" timestamp="1584194347685" />
+    <state width="1874" height="261" key="GridCell.Tab.0.right" timestamp="1584194347686">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1874" height="261" key="GridCell.Tab.0.right/0.27.1920.1004@0.27.1920.1004" timestamp="1584194347686" />
+    <state x="694" y="112" width="1024" height="845" key="SettingsEditor" timestamp="1584183693179">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="694" y="112" width="1024" height="845" key="SettingsEditor/0.27.1920.1004@0.27.1920.1004" timestamp="1584183693179" />
+    <state x="1091" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1584268434427">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="1091" y="356" key="com.intellij.ide.util.TipDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1584268434427" />
+  </component>
+</project>
